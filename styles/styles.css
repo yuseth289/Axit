@@ -1050,6 +1050,15 @@ footer{
         flex-direction: column;
     }
 
+    .trial-form{
+        width: 105%;
+        padding: 0px 40px;
+    }
+
+    .trial-header{
+        padding: 10px 100px;
+    }
+
     .section-start{
         justify-content: center;
     }
